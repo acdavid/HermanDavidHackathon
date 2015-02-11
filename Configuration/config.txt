@@ -1,0 +1,13 @@
+title=Restaurant Ratings
+category=Classification
+points=100
+question=/QuestionText/RestaurantRatings.txt	
+solution=/Solution/Restaurant-answerKey.csv
+solution_grader=/SolutionGrader/restaurant-solutionGrader.py
+
+hint1=This is the first hint text.  Alternatively, a link to could be provided to sample data or a partial solution.	
+hint1.deduction=10
+hint1.link=
+hint2=This is the second hint text.  Alternatively, a link to could be provided to sample data or a partial solution.	
+hint2.deduction=10
+hint2.link=

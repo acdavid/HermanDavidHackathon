@@ -1,0 +1,28 @@
+Predicting Restaurant Ratings
+
+Background:
+ABC Travel Group has been pieced together basic data about the restaurants that clientele have enjoyed while vacationing in Mexico. The travel company would like to use this data to make smarter dining recommendations to travelers.
+
+Problem:
+Unfortunately, ABC Travel Company does not have extensive information about past and current clientele dining preferences and restaurant characteristics. Use the few attributes that the company did log to build a model to predict how a customer will rate a restaurant. Predicted ratings will help ABC travel agents while recommending - or not recommending - restaurants.
+
+The data elements are described below:
+•	birth_year: Year the customer was born
+•	franchise : t (true) if restaurant is part of a franchise or f (false) if it is a local establishment
+•	price: price categorization as 0 (Low), 1 (Medium), or 2 (High)
+•	rating: overall restaurant rating indicated as 0 (terrible), 1 (average) or 2 (excellent)
+
+
+
+Data Sources:
+
+   (a) Creators: 
+Rafael Ponce Medellín and Juan Gabriel González Serna
+rafaponce@cenidet.edu.mx, gabriel@cenidet.edu.mx
+Department of Computer Science.
+National Center for Research and Technological Development CENIDET, México
+   (b) Donors of database:
+Blanca Vargas-Govea and Juan Gabriel González Serna
+blanca.vargas@cenidet.edu.mx/blanca.vg@gmail.com, gabriel@cenidet.edu.mx
+Department of Computer Science.
+National Center for Research and Technological Development CENIDET, México
